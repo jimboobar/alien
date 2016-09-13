@@ -1,0 +1,16 @@
+{
+  "name": "@jimboobar/alien-user",
+  "version": "1.0.0",
+  "description": "User interaction automation",
+  "author": "Jim Sverkmo",
+  "licence": "MIT",
+  "main": "src/javascript/User.js",
+  "scripts": {
+    "develop": "webpack-dev-server --colors --hot --inline"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.22.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
