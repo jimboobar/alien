@@ -1,10 +1,10 @@
 {
   "name": "@jimboobar/alien-user",
   "version": "1.0.0",
-  "description": "User interaction automation",
+  "description": "User interaction automated",
   "author": "Jim Sverkmo",
   "licence": "MIT",
-  "main": "src/javascript/User.js",
+  "main": "src/javascript/Alien.js",
   "scripts": {
     "develop": "webpack-dev-server --colors --hot --inline"
   },

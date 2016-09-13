@@ -15,7 +15,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Alien-User Test UI",
+      title: "Alien Test Page",
       filename: "index.html"
     })
   ]
