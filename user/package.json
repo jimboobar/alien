@@ -4,7 +4,7 @@
   "description": "User interaction automated",
   "author": "Jim Sverkmo",
   "licence": "MIT",
-  "main": "src/javascript/Alien.js",
+  "main": "src/Alien.js",
   "scripts": {
     "develop": "webpack-dev-server --colors --hot --inline"
   },

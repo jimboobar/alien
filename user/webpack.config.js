@@ -6,7 +6,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: {
-    test: './test/javascript/test.js'
+    test: './test/test.js'
   },
   output: {
     path: './bin',
